@@ -1,6 +1,6 @@
 {
   "app": "Faculdade",
-  "bank_version": 8,
+  "bank_version": 9,
   "updated_at": "2026-10-19",
   "source": "7 matérias enviadas pelo usuário (5 PDFs e 2 ZIPs)",
   "subjects": [
@@ -407,16 +407,16 @@
       "id": "hist_7_2",
       "s": "A Representação do Passado Histórico — Breno Mendes",
       "t": "Capítulo 2 — Narrativa",
-      "q": "O segundo capítulo investiga principalmente",
+      "q": "Ao estudar história e narrativa em Ricoeur, qual problema orienta a análise de Breno Mendes?",
       "o": [
-        "A) a fisiologia da memória",
-        "B) a cronologia astronômica",
-        "C) história e narrativa segundo Ricoeur",
-        "D) a história militar antiga",
-        "E) a estatística demográfica"
+        "A) Como memorizar o índice de uma obra",
+        "B) Como determinar o ano de impressão do texto",
+        "C) Como acontecimentos são configurados em uma narrativa histórica",
+        "D) Como dispensar a mediação da linguagem",
+        "E) Como eliminar a dimensão temporal da história"
       ],
       "r": "C",
-      "e": "O capítulo 2 trata da narrativa na escrita da história e do debate historiográfico."
+      "e": "Breno Mendes, capítulo 2, examina a articulação entre história e narrativa, não apenas o título do capítulo."
     },
     {
       "id": "hist_7_3",
@@ -437,16 +437,16 @@
       "id": "hist_7_4",
       "s": "A Representação do Passado Histórico — Breno Mendes",
       "t": "Capítulo 4 — Representância",
-      "q": "O quarto capítulo investiga",
+      "q": "Por que o conceito de representância é relevante na reflexão historiográfica examinada por Mendes?",
       "o": [
-        "A) a cronologia dos impérios",
-        "B) a matemática da duração",
-        "C) a biografia de Marc Bloch",
-        "D) a física dos relógios",
-        "E) verdade e representância do passado histórico"
+        "A) Porque equipara integralmente história e ficção",
+        "B) Porque reduz a verdade histórica a uma cronologia",
+        "C) Porque substitui o trabalho historiográfico pela memória espontânea",
+        "D) Porque torna desnecessária a crítica das fontes",
+        "E) Porque interroga como a escrita histórica se refere a um passado ausente"
       ],
       "r": "E",
-      "e": "O capítulo 4 discute a verdade histórica, incluindo objeções e respostas a Ricoeur."
+      "e": "Breno Mendes, capítulo 4, discute a verdade e a representância do passado histórico."
     },
     {
       "id": "hist_extra_1_1",
@@ -1457,61 +1457,61 @@
       "id": "hist_source_7_1",
       "s": "A Representação do Passado Histórico — Breno Mendes",
       "t": "Capítulo 1 — Historiografia",
-      "q": "O primeiro capítulo de Breno Mendes aborda",
+      "q": "Qual é a função do diálogo de Ricoeur com debates historiográficos na abordagem de Mendes?",
       "o": [
-        "A) somente o tempo dos relógios",
-        "B) Ricoeur em face de questões historiográficas de seu tempo",
-        "C) a história natural de animais",
-        "D) a análise de dados econômicos",
-        "E) a astronomia antiga"
+        "A) Dispensar a discussão sobre historiografia",
+        "B) Situar a reflexão filosófica diante de problemas da escrita da história",
+        "C) Reduzir a teoria da história a uma biografia",
+        "D) Afirmar que não existem diferenças entre disciplinas",
+        "E) Substituir a interpretação por uma lista de datas"
       ],
       "r": "B",
-      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 1."
+      "e": "Breno Mendes, capítulo 1, situa Ricoeur diante de questões historiográficas de seu tempo."
     },
     {
       "id": "hist_source_7_2",
       "s": "A Representação do Passado Histórico — Breno Mendes",
       "t": "Capítulo 2 — Narrativa",
-      "q": "O segundo capítulo de Breno Mendes denomina-se",
+      "q": "Na análise de Mendes, a narrativa interessa à historiografia porque",
       "o": [
-        "A) História e geologia",
-        "B) O tempo do mercado",
-        "C) A biografia de Marc Bloch",
-        "D) História e narrativa segundo Paul Ricoeur",
-        "E) A crítica da física"
+        "A) é somente um recurso ornamental",
+        "B) impede qualquer referência ao passado",
+        "C) dispensa a relação com a temporalidade",
+        "D) participa da configuração e inteligibilidade dos acontecimentos",
+        "E) elimina as escolhas interpretativas"
       ],
       "r": "D",
-      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 2."
+      "e": "Breno Mendes, capítulo 2, História e narrativa segundo Paul Ricoeur."
     },
     {
       "id": "hist_source_7_3",
       "s": "A Representação do Passado Histórico — Breno Mendes",
       "t": "Capítulo 3 — Ficção",
-      "q": "O terceiro capítulo investiga",
+      "q": "Ao aproximar história e ficção, que distinção permanece decisiva?",
       "o": [
-        "A) História e ficção em Tempo e narrativa",
-        "B) somente a memória neurológica",
-        "C) o cálculo de séculos",
-        "D) a história dos calendários",
-        "E) a cronobiologia"
+        "A) A pretensão historiográfica de referir-se ao passado efetivamente ocorrido",
+        "B) A impossibilidade de usar recursos narrativos na história",
+        "C) A inexistência de qualquer relação entre narrativa e história",
+        "D) A identidade obrigatória entre documento e ficção",
+        "E) A exclusão da interpretação da escrita histórica"
       ],
       "r": "A",
-      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 3."
+      "e": "Breno Mendes, capítulo 3, História e ficção em Tempo e narrativa."
     },
     {
       "id": "hist_source_7_4",
       "s": "A Representação do Passado Histórico — Breno Mendes",
       "t": "Capítulo 4 — Verdade",
-      "q": "O quarto capítulo concentra-se em",
+      "q": "Que dificuldade o debate sobre verdade e representância procura enfrentar?",
       "o": [
-        "A) apenas memorização de datas",
-        "B) biologia do envelhecimento",
-        "C) Verdade e representância do passado histórico",
-        "D) métodos de cronometração",
-        "E) organização de calendários"
+        "A) A escolha da capa de uma obra historiográfica",
+        "B) A impossibilidade de qualquer comparação entre fontes",
+        "C) A referência do relato histórico a acontecimentos que já não estão presentes",
+        "D) A conversão de toda história em calendário",
+        "E) A rejeição de toda questão epistemológica"
       ],
       "r": "C",
-      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 4."
+      "e": "Breno Mendes, capítulo 4, Verdade e representância do passado histórico."
     },
     {
       "id": "hist_source_7_5",
