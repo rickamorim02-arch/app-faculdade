@@ -26,7 +26,9 @@
         "E) a simples cronologia"
       ],
       "r": "A",
-      "e": "O material afirma que a história é pesquisa e toda pesquisa implica escolha."
+      "e": "O material afirma que a história é pesquisa e toda pesquisa implica escolha. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_1_2",
@@ -41,7 +43,9 @@
         "E) das leis naturais"
       ],
       "r": "B",
-      "e": "A dimensão humana e a temporalidade definem o objeto da história."
+      "e": "A dimensão humana e a temporalidade definem o objeto da história. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_1_3",
@@ -56,7 +60,9 @@
         "E) repetição sem transformação"
       ],
       "r": "C",
-      "e": "A apresentação ressalta duração, continuidade e transformação."
+      "e": "A apresentação ressalta duração, continuidade e transformação. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_1_4",
@@ -71,7 +77,9 @@
         "E) um calendário fechado"
       ],
       "r": "D",
-      "e": "A ausência presente do passado não elimina o fato de que algo efetivamente aconteceu."
+      "e": "A ausência presente do passado não elimina o fato de que algo efetivamente aconteceu. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_2_1",
@@ -86,7 +94,9 @@
         "E) tempo e espaço geométrico apenas"
       ],
       "r": "B",
-      "e": "O ensaio sustenta a correlação entre narratividade e temporalidade."
+      "e": "O ensaio sustenta a correlação entre narratividade e temporalidade. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_2_2",
@@ -101,7 +111,9 @@
         "E) uma sucessão sem consciência"
       ],
       "r": "C",
-      "e": "O passado é presente na lembrança; o futuro, na expectativa; e o presente, na atenção."
+      "e": "O passado é presente na lembrança; o futuro, na expectativa; e o presente, na atenção. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_2_3",
@@ -116,7 +128,9 @@
         "E) a recusa de qualquer narrativa"
       ],
       "r": "D",
-      "e": "A recitação do poema articula expectativa, atenção e lembrança."
+      "e": "A recitação do poema articula expectativa, atenção e lembrança. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_2_4",
@@ -131,7 +145,9 @@
         "E) acontecimentos isolados e história como totalidade"
       ],
       "r": "E",
-      "e": "A composição da intriga transforma incidentes em uma história inteligível."
+      "e": "A composição da intriga transforma incidentes em uma história inteligível. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_3_1",
@@ -146,7 +162,9 @@
         "E) imaginação e neutralidade total"
       ],
       "r": "C",
-      "e": "Memória e esquecimento constituem polos da condição histórica humana."
+      "e": "Memória e esquecimento constituem polos da condição histórica humana. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_3_2",
@@ -161,7 +179,9 @@
         "E) equivale integralmente à ficção"
       ],
       "r": "D",
-      "e": "A memória possui pretensão de fidelidade ao passado."
+      "e": "A memória possui pretensão de fidelidade ao passado. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_3_3",
@@ -176,7 +196,9 @@
         "E) relações entre eu, próximos e outros"
       ],
       "r": "E",
-      "e": "Ricoeur busca mediações entre memória individual e coletiva."
+      "e": "Ricoeur busca mediações entre memória individual e coletiva. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_3_4",
@@ -191,7 +213,9 @@
         "E) do esquecimento obrigatório"
       ],
       "r": "A",
-      "e": "A memória é apresentada em dimensões afetivas, sociais e políticas."
+      "e": "A memória é apresentada em dimensões afetivas, sociais e políticas. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_4_1",
@@ -206,7 +230,9 @@
         "E) dado imune à cultura"
       ],
       "r": "D",
-      "e": "O artigo problematiza representações e percepções diversas do tempo."
+      "e": "O artigo problematiza representações e percepções diversas do tempo. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_4_2",
@@ -221,7 +247,9 @@
         "E) reorganizar ritmos de trabalho e vida social"
       ],
       "r": "E",
-      "e": "O autor contrasta ritmos agrários e religiosos com a organização urbana pelo relógio."
+      "e": "O autor contrasta ritmos agrários e religiosos com a organização urbana pelo relógio. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_4_3",
@@ -236,7 +264,9 @@
         "E) igual para todos os sujeitos"
       ],
       "r": "A",
-      "e": "O texto diferencia duração vivida da abstração do relógio."
+      "e": "O texto diferencia duração vivida da abstração do relógio. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_4_4",
@@ -251,7 +281,9 @@
         "E) ausência de finitude"
       ],
       "r": "B",
-      "e": "A reflexão filosófica sobre o tempo é descrita como paradoxal e aporética."
+      "e": "A reflexão filosófica sobre o tempo é descrita como paradoxal e aporética. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_5_1",
@@ -266,7 +298,9 @@
         "E) foi e não é mais"
       ],
       "r": "E",
-      "e": "O artigo interroga o estatuto ontológico do passado que foi, mas já não é."
+      "e": "O artigo interroga o estatuto ontológico do passado que foi, mas já não é. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_5_2",
@@ -281,7 +315,9 @@
         "E) à memória sem crítica"
       ],
       "r": "A",
-      "e": "A confrontação dos testemunhos e de seus graus de fiabilidade sustenta a narrativa histórica."
+      "e": "A confrontação dos testemunhos e de seus graus de fiabilidade sustenta a narrativa histórica. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_5_3",
@@ -296,7 +332,9 @@
         "E) moral e direito penal"
       ],
       "r": "B",
-      "e": "Ricoeur distingue a pretensão de fidelidade memorial da pretensão de verdade historiográfica."
+      "e": "Ricoeur distingue a pretensão de fidelidade memorial da pretensão de verdade historiográfica. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_5_4",
@@ -311,7 +349,9 @@
         "E) transforma o passado em lugar físico"
       ],
       "r": "C",
-      "e": "O texto questiona reduzir a memória ao modelo de marca impressa ou armazenamento."
+      "e": "O texto questiona reduzir a memória ao modelo de marca impressa ou armazenamento. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_6_1",
@@ -326,7 +366,9 @@
         "E) da descrição de reis somente"
       ],
       "r": "A",
-      "e": "O capítulo I discute a escolha do historiador e a história como ciência dos homens no tempo."
+      "e": "O capítulo I discute a escolha do historiador e a história como ciência dos homens no tempo. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_6_2",
@@ -341,7 +383,9 @@
         "E) de reproduzir experimentos idênticos"
       ],
       "r": "B",
-      "e": "Bloch observa que o historiador não presencia diretamente muitos dos fatos investigados."
+      "e": "Bloch observa que o historiador não presencia diretamente muitos dos fatos investigados. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_6_3",
@@ -356,7 +400,9 @@
         "E) abandonar comparação documental"
       ],
       "r": "C",
-      "e": "Bloch adverte que relatos e vestígios podem conter erros ou falsificações."
+      "e": "Bloch adverte que relatos e vestígios podem conter erros ou falsificações. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_6_4",
@@ -371,7 +417,9 @@
         "E) reduzir história a cronologia"
       ],
       "r": "D",
-      "e": "O capítulo IV discute julgar ou compreender e o trabalho analítico do historiador."
+      "e": "O capítulo IV discute julgar ou compreender e o trabalho analítico do historiador. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_6_5",
@@ -386,7 +434,9 @@
         "E) investigação consciente das relações causais"
       ],
       "r": "E",
-      "e": "O capítulo V sustenta a necessidade de analisar cuidadosamente causas e efeitos."
+      "e": "O capítulo V sustenta a necessidade de analisar cuidadosamente causas e efeitos. Fonte para conferência: Apologia da História — Marc Bloch, capítulo V.",
+      "source": "Apologia da História — Marc Bloch, capítulo V",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_7_1",
@@ -401,7 +451,9 @@
         "E) a recusa da linguagem"
       ],
       "r": "B",
-      "e": "Breno Mendes apresenta a interface entre filosofia ricoeuriana e teoria da história."
+      "e": "Breno Mendes apresenta a interface entre filosofia ricoeuriana e teoria da história. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 1.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 1",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_7_2",
@@ -416,7 +468,9 @@
         "E) Como eliminar a dimensão temporal da história"
       ],
       "r": "C",
-      "e": "Breno Mendes, capítulo 2, examina a articulação entre história e narrativa, não apenas o título do capítulo."
+      "e": "Breno Mendes, capítulo 2, examina a articulação entre história e narrativa, não apenas o título do capítulo. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_7_3",
@@ -431,7 +485,9 @@
         "E) direito e economia"
       ],
       "r": "D",
-      "e": "O capítulo 3 é dedicado às relações e distinções entre história e ficção."
+      "e": "O capítulo 3 é dedicado às relações e distinções entre história e ficção. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 3.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 3",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_7_4",
@@ -446,7 +502,9 @@
         "E) Porque interroga como a escrita histórica se refere a um passado ausente"
       ],
       "r": "E",
-      "e": "Breno Mendes, capítulo 4, discute a verdade e a representância do passado histórico."
+      "e": "Breno Mendes, capítulo 4, discute a verdade e a representância do passado histórico. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 4.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 4",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_1_1",
@@ -461,7 +519,9 @@
         "E) Porque fatos antigos dispensam análise"
       ],
       "r": "A",
-      "e": "O material diferencia o passado em geral do objeto especificamente humano da história."
+      "e": "O material diferencia o passado em geral do objeto especificamente humano da história. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_1_2",
@@ -476,7 +536,9 @@
         "E) Por negar que o passado ocorreu"
       ],
       "r": "B",
-      "e": "A apresentação aproxima Bloch e Ricoeur a partir dos vestígios deixados por ações humanas."
+      "e": "A apresentação aproxima Bloch e Ricoeur a partir dos vestígios deixados por ações humanas. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_1_3",
@@ -491,7 +553,9 @@
         "E) fora das experiências humanas"
       ],
       "r": "C",
-      "e": "O tempo não é recipiente neutro; participa da inteligibilidade dos fenômenos."
+      "e": "O tempo não é recipiente neutro; participa da inteligibilidade dos fenômenos. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_1_4",
@@ -506,7 +570,9 @@
         "E) mera contagem de anos"
       ],
       "r": "D",
-      "e": "O tempo histórico envolve permanências e transformações."
+      "e": "O tempo histórico envolve permanências e transformações. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_1_5",
@@ -521,7 +587,9 @@
         "E) o caráter ativo da pesquisa histórica"
       ],
       "r": "E",
-      "e": "O passado não chega pronto ao pesquisador."
+      "e": "O passado não chega pronto ao pesquisador. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_1_6",
@@ -536,7 +604,9 @@
         "E) como substituir a história pela ficção"
       ],
       "r": "A",
-      "e": "A passeidade pergunta pelo modo de ser do passado ausente."
+      "e": "A passeidade pergunta pelo modo de ser do passado ausente. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_2_1",
@@ -551,7 +621,9 @@
         "E) a inexistência de referência"
       ],
       "r": "D",
-      "e": "O ensaio apresenta a noção hermenêutica de mundo da obra."
+      "e": "O ensaio apresenta a noção hermenêutica de mundo da obra. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_2_2",
@@ -566,7 +638,9 @@
         "E) do ato de narrar em diferentes gêneros"
       ],
       "r": "E",
-      "e": "Ricoeur propõe o pôr-em-intriga como princípio estruturante comum."
+      "e": "Ricoeur propõe o pôr-em-intriga como princípio estruturante comum. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_2_3",
@@ -581,7 +655,9 @@
         "E) o tempo é apenas espaço"
       ],
       "r": "A",
-      "e": "Ricoeur examina a tensão entre os modos temporais na experiência humana."
+      "e": "Ricoeur examina a tensão entre os modos temporais na experiência humana. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_2_4",
@@ -596,7 +672,9 @@
         "E) anula a duração"
       ],
       "r": "B",
-      "e": "O exemplo ilustra a dialética entre antecipação, atenção e lembrança."
+      "e": "O exemplo ilustra a dialética entre antecipação, atenção e lembrança. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_2_5",
@@ -611,7 +689,9 @@
         "E) sucessão de números"
       ],
       "r": "C",
-      "e": "Ricoeur utiliza a Poética para discutir a operação de configuração narrativa."
+      "e": "Ricoeur utiliza a Poética para discutir a operação de configuração narrativa. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_2_6",
@@ -626,7 +706,9 @@
         "E) a impossibilidade de interpretar"
       ],
       "r": "D",
-      "e": "A intriga media elementos heterogêneos numa totalidade significativa."
+      "e": "A intriga media elementos heterogêneos numa totalidade significativa. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_3_1",
@@ -641,7 +723,9 @@
         "E) a ausência de sujeito"
       ],
       "r": "B",
-      "e": "O artigo diferencia lembrança e busca da lembrança ao abordar a fenomenologia da memória."
+      "e": "O artigo diferencia lembrança e busca da lembrança ao abordar a fenomenologia da memória. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_3_2",
@@ -656,7 +740,9 @@
         "E) uma lembrança sem temporalidade"
       ],
       "r": "C",
-      "e": "O artigo associa reconhecimento à pretensão de fidelidade ao passado."
+      "e": "O artigo associa reconhecimento à pretensão de fidelidade ao passado. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_3_3",
@@ -671,7 +757,9 @@
         "E) o passado não pode ser representado"
       ],
       "r": "D",
-      "e": "O artigo examina o enigma da representação presente de algo ausente."
+      "e": "O artigo examina o enigma da representação presente de algo ausente. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_3_4",
@@ -686,7 +774,9 @@
         "E) marcas materiais de experiências passadas"
       ],
       "r": "E",
-      "e": "O artigo relaciona marcas psíquicas e registros materiais na produção histórica."
+      "e": "O artigo relaciona marcas psíquicas e registros materiais na produção histórica. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_3_5",
@@ -701,7 +791,9 @@
         "E) categorias sem relação com o outro"
       ],
       "r": "A",
-      "e": "O texto destaca o papel da memória na formação e revisão de identidades."
+      "e": "O texto destaca o papel da memória na formação e revisão de identidades. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_3_6",
@@ -716,7 +808,9 @@
         "E) tempo mecânico e astronomia"
       ],
       "r": "B",
-      "e": "O estudo articula fenomenologia da memória, epistemologia histórica e hermenêutica da condição histórica."
+      "e": "O estudo articula fenomenologia da memória, epistemologia histórica e hermenêutica da condição histórica. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_4_1",
@@ -731,7 +825,9 @@
         "E) Alternância de dia e noite"
       ],
       "r": "E",
-      "e": "O artigo menciona movimentos celestes e estações como regularidades percebidas."
+      "e": "O artigo menciona movimentos celestes e estações como regularidades percebidas. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_4_2",
@@ -746,7 +842,9 @@
         "E) ao tempo ficcional"
       ],
       "r": "A",
-      "e": "O texto menciona funções vitais temporais e ritmos circadianos."
+      "e": "O texto menciona funções vitais temporais e ritmos circadianos. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_4_3",
@@ -761,7 +859,9 @@
         "E) por calendários financeiros exclusivamente"
       ],
       "r": "B",
-      "e": "O texto descreve atividades como plantar, colher e pastorear."
+      "e": "O texto descreve atividades como plantar, colher e pastorear. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_4_4",
@@ -776,7 +876,9 @@
         "E) ausência de calendário"
       ],
       "r": "C",
-      "e": "O artigo discute ritmos coletivos organizados por práticas religiosas."
+      "e": "O artigo discute ritmos coletivos organizados por práticas religiosas. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_4_5",
@@ -791,7 +893,9 @@
         "E) o relógio parado"
       ],
       "r": "D",
-      "e": "O rio ilustra devir e irreversibilidade na reflexão temporal."
+      "e": "O rio ilustra devir e irreversibilidade na reflexão temporal. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_4_6",
@@ -806,7 +910,9 @@
         "E) a experiência humana da finitude"
       ],
       "r": "E",
-      "e": "O autor aborda o desejo de eternidade diante da limitação temporal."
+      "e": "O autor aborda o desejo de eternidade diante da limitação temporal. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_5_1",
@@ -821,7 +927,9 @@
         "E) à ausência de testemunhos"
       ],
       "r": "C",
-      "e": "Ricoeur interroga a fidelidade memorial e a verdade histórica."
+      "e": "Ricoeur interroga a fidelidade memorial e a verdade histórica. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_5_2",
@@ -836,7 +944,9 @@
         "E) ficção obrigatória"
       ],
       "r": "D",
-      "e": "O passado é simultaneamente o que foi e o que não é mais."
+      "e": "O passado é simultaneamente o que foi e o que não é mais. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_5_3",
@@ -851,7 +961,9 @@
         "E) marca ou vestígio da lembrança"
       ],
       "r": "E",
-      "e": "Ricoeur problematiza a tradição que reduz memória a impressão."
+      "e": "Ricoeur problematiza a tradição que reduz memória a impressão. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_5_4",
@@ -866,7 +978,9 @@
         "E) exclusivamente duração física"
       ],
       "r": "A",
-      "e": "O artigo considera advérbios e tempos verbais na análise da passeidade."
+      "e": "O artigo considera advérbios e tempos verbais na análise da passeidade. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_5_5",
@@ -881,7 +995,9 @@
         "E) observa o futuro diretamente"
       ],
       "r": "B",
-      "e": "Ricoeur destaca o recorte retrospectivo do objeto histórico."
+      "e": "Ricoeur destaca o recorte retrospectivo do objeto histórico. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_5_6",
@@ -896,7 +1012,9 @@
         "E) a rejeição da verdade histórica"
       ],
       "r": "C",
-      "e": "O artigo anuncia o retorno da visada do futuro sobre a do passado."
+      "e": "O artigo anuncia o retorno da visada do futuro sobre a do passado. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_6_1",
@@ -911,7 +1029,9 @@
         "E) a literatura sem pesquisa"
       ],
       "r": "A",
-      "e": "A obra articula defesa da história e reflexão sobre seu método."
+      "e": "A obra articula defesa da história e reflexão sobre seu método. Fonte para conferência: Apologia da História — Marc Bloch, introdução.",
+      "source": "Apologia da História — Marc Bloch, introdução",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_6_2",
@@ -926,7 +1046,9 @@
         "E) substituir história por cronologia"
       ],
       "r": "B",
-      "e": "O capítulo I começa pela escolha e definição do objeto da história."
+      "e": "O capítulo I começa pela escolha e definição do objeto da história. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_6_3",
@@ -941,7 +1063,9 @@
         "E) somente livros escolares"
       ],
       "r": "C",
-      "e": "O capítulo II trata da diversidade de testemunhos e da observação indireta."
+      "e": "O capítulo II trata da diversidade de testemunhos e da observação indireta. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_6_4",
@@ -956,7 +1080,9 @@
         "E) que testemunhos não podem ser comparados"
       ],
       "r": "D",
-      "e": "Bloch discute a história do método crítico e os problemas do testemunho."
+      "e": "Bloch discute a história do método crítico e os problemas do testemunho. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_6_5",
@@ -971,7 +1097,9 @@
         "E) nomear e classificar fenômenos de maneira crítica"
       ],
       "r": "E",
-      "e": "O capítulo IV aborda também nomenclatura e divisões da história."
+      "e": "O capítulo IV aborda também nomenclatura e divisões da história. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_6_6",
@@ -986,7 +1114,9 @@
         "E) onde sem problemas"
       ],
       "r": "A",
-      "e": "Bloch sustenta a legitimidade das questões causais no trabalho científico."
+      "e": "Bloch sustenta a legitimidade das questões causais no trabalho científico. Fonte para conferência: Apologia da História — Marc Bloch, capítulo V.",
+      "source": "Apologia da História — Marc Bloch, capítulo V",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_7_1",
@@ -1001,7 +1131,9 @@
         "E) da exclusão da filosofia"
       ],
       "r": "D",
-      "e": "O capítulo inicial apresenta interlocuções historiográficas e filosóficas."
+      "e": "O capítulo inicial apresenta interlocuções historiográficas e filosóficas. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 1.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 1",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_7_2",
@@ -1016,7 +1148,9 @@
         "E) à possibilidade de narrar a experiência temporal"
       ],
       "r": "E",
-      "e": "O capítulo 2 explora a articulação narrativa do tempo."
+      "e": "O capítulo 2 explora a articulação narrativa do tempo. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_7_3",
@@ -1031,7 +1165,9 @@
         "E) abandonar o tempo"
       ],
       "r": "A",
-      "e": "O debate sobre história e narrativa investiga a composição do relato."
+      "e": "O debate sobre história e narrativa investiga a composição do relato. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_7_4",
@@ -1046,7 +1182,9 @@
         "E) substituir testemunhos por imaginação"
       ],
       "r": "B",
-      "e": "O capítulo 3 examina as relações entre história e ficção em Tempo e narrativa."
+      "e": "O capítulo 3 examina as relações entre história e ficção em Tempo e narrativa. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 3.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 3",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_7_5",
@@ -1061,7 +1199,9 @@
         "E) à previsão do clima"
       ],
       "r": "C",
-      "e": "O capítulo 4 tem por título Verdade e representância do passado histórico."
+      "e": "O capítulo 4 tem por título Verdade e representância do passado histórico. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 4.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 4",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_extra_7_6",
@@ -1076,7 +1216,9 @@
         "E) à identidade automática entre fato e relato"
       ],
       "r": "D",
-      "e": "A conclusão discute o desafio e a felicidade da tradução do passado histórico."
+      "e": "A conclusão discute o desafio e a felicidade da tradução do passado histórico. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, considerações finais.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, considerações finais",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_1_1",
@@ -1091,7 +1233,9 @@
         "E) não existe investigação histórica"
       ],
       "r": "A",
-      "e": "A apresentação, seção 1, afirma que a história é pesquisa e toda pesquisa implica escolha."
+      "e": "A apresentação, seção 1, afirma que a história é pesquisa e toda pesquisa implica escolha. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_1_2",
@@ -1106,7 +1250,9 @@
         "E) os fenômenos naturais não possuem duração"
       ],
       "r": "C",
-      "e": "A apresentação diferencia o passado em geral das experiências humanas no tempo."
+      "e": "A apresentação diferencia o passado em geral das experiências humanas no tempo. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_1_3",
@@ -1121,7 +1267,9 @@
         "E) sua duração, transformações e relações com outras experiências"
       ],
       "r": "E",
-      "e": "A apresentação, seção sobre tempo histórico, insiste em duração e transformação."
+      "e": "A apresentação, seção sobre tempo histórico, insiste em duração e transformação. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_1_4",
@@ -1136,7 +1284,9 @@
         "E) Bloch rejeita vestígios"
       ],
       "r": "B",
-      "e": "A apresentação aproxima a investigação dos homens no tempo e o problema do passado ausente."
+      "e": "A apresentação aproxima a investigação dos homens no tempo e o problema do passado ausente. Fonte para conferência: A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado.",
+      "source": "A história, os homens e o tempo — apresentação sobre Marc Bloch, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_2_1",
@@ -1151,7 +1301,9 @@
         "E) causalidade mecânica"
       ],
       "r": "B",
-      "e": "Entre tempo e narrativa, p. 299, identifica a operação de pôr-em-intriga como princípio estruturante."
+      "e": "Entre tempo e narrativa, p. 299, identifica a operação de pôr-em-intriga como princípio estruturante. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_2_2",
@@ -1166,7 +1318,9 @@
         "E) uma sequência sem referência"
       ],
       "r": "D",
-      "e": "Entre tempo e narrativa, p. 300, descreve o mundo da obra como mundo proposto."
+      "e": "Entre tempo e narrativa, p. 300, descreve o mundo da obra como mundo proposto. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_2_3",
@@ -1181,7 +1335,9 @@
         "E) ao tempo exclusivamente quantitativo"
       ],
       "r": "A",
-      "e": "Entre tempo e narrativa, p. 300, explicita a correlação entre narratividade e temporalidade."
+      "e": "Entre tempo e narrativa, p. 300, explicita a correlação entre narratividade e temporalidade. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_2_4",
@@ -1196,7 +1352,9 @@
         "E) torna o presente eterno"
       ],
       "r": "C",
-      "e": "Entre tempo e narrativa, pp. 301-302, discute expectativa, atenção e lembrança na recitação."
+      "e": "Entre tempo e narrativa, pp. 301-302, discute expectativa, atenção e lembrança na recitação. Fonte para conferência: Entre o tempo e narrativa — Paul Ricoeur, texto enviado.",
+      "source": "Entre o tempo e narrativa — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_3_1",
@@ -1211,7 +1369,9 @@
         "E) a crítica de autenticidade"
       ],
       "r": "C",
-      "e": "Memória, história e esquecimento, seção 2, diferencia lembrança e busca da lembrança."
+      "e": "Memória, história e esquecimento, seção 2, diferencia lembrança e busca da lembrança. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_3_2",
@@ -1226,7 +1386,9 @@
         "E) à busca da lembrança"
       ],
       "r": "E",
-      "e": "Memória, história e esquecimento, seção 2, apresenta anamnèsis como busca da lembrança."
+      "e": "Memória, história e esquecimento, seção 2, apresenta anamnèsis como busca da lembrança. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_3_3",
@@ -1241,7 +1403,9 @@
         "E) apenas historiadores profissionais"
       ],
       "r": "B",
-      "e": "Memória, história e esquecimento, seção 2, destaca a tríplice atribuição da memória."
+      "e": "Memória, história e esquecimento, seção 2, destaca a tríplice atribuição da memória. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_3_4",
@@ -1256,7 +1420,9 @@
         "E) do fim da vida social"
       ],
       "r": "D",
-      "e": "Memória, história e esquecimento, introdução, ressalta dimensões sociais e políticas da memória."
+      "e": "Memória, história e esquecimento, introdução, ressalta dimensões sociais e políticas da memória. Fonte para conferência: Memória, história e esquecimento, texto enviado.",
+      "source": "Memória, história e esquecimento, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_4_1",
@@ -1271,7 +1437,9 @@
         "E) na ausência de ritmos corporais"
       ],
       "r": "D",
-      "e": "O tempo histórico como representação intelectual, seção O que é o tempo?, cita estações e movimentos celestes."
+      "e": "O tempo histórico como representação intelectual, seção O que é o tempo?, cita estações e movimentos celestes. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_4_2",
@@ -1286,7 +1454,9 @@
         "E) da história exclusivamente política"
       ],
       "r": "A",
-      "e": "O tempo histórico como representação intelectual, p. 2, menciona ritmos corporais circadianos."
+      "e": "O tempo histórico como representação intelectual, p. 2, menciona ritmos corporais circadianos. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_4_3",
@@ -1301,7 +1471,9 @@
         "E) a astronomia matemática"
       ],
       "r": "C",
-      "e": "O tempo histórico como representação intelectual, p. 2, trata de rezas, missas e festas."
+      "e": "O tempo histórico como representação intelectual, p. 2, trata de rezas, missas e festas. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_4_4",
@@ -1316,7 +1488,9 @@
         "E) qualitativo, afetivo e heterogêneo"
       ],
       "r": "E",
-      "e": "O tempo histórico como representação intelectual, p. 3, contrasta duração psicológica e tempo abstrato."
+      "e": "O tempo histórico como representação intelectual, p. 3, contrasta duração psicológica e tempo abstrato. Fonte para conferência: O tempo histórico como representação intelectual — José Carlos Reis, texto enviado.",
+      "source": "O tempo histórico como representação intelectual — José Carlos Reis, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_5_1",
@@ -1331,7 +1505,9 @@
         "E) epistemologia e ontologia"
       ],
       "r": "E",
-      "e": "A marca do passado, p. 330, explicita o estatuto epistemológico e ontológico da questão."
+      "e": "A marca do passado, p. 330, explicita o estatuto epistemológico e ontológico da questão. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_5_2",
@@ -1346,7 +1522,9 @@
         "E) a duração de um relógio"
       ],
       "r": "B",
-      "e": "A marca do passado, p. 330, discute o passado como adjetivo substantivado."
+      "e": "A marca do passado, p. 330, discute o passado como adjetivo substantivado. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_5_3",
@@ -1361,7 +1539,9 @@
         "E) a ausência de sucessão"
       ],
       "r": "D",
-      "e": "A marca do passado, p. 330, examina os advérbios de tempo."
+      "e": "A marca do passado, p. 330, examina os advérbios de tempo. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_5_4",
@@ -1376,7 +1556,9 @@
         "E) da impossibilidade de crítica"
       ],
       "r": "A",
-      "e": "A marca do passado, resumo, destaca a confrontação de diferentes testemunhos."
+      "e": "A marca do passado, resumo, destaca a confrontação de diferentes testemunhos. Fonte para conferência: A marca do passado — Paul Ricoeur, texto enviado.",
+      "source": "A marca do passado — Paul Ricoeur, texto enviado",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_6_1",
@@ -1391,7 +1573,9 @@
         "E) ficção e futuro"
       ],
       "r": "A",
-      "e": "Apologia da História, capítulo I, A história, os homens e o tempo."
+      "e": "Apologia da História, capítulo I, A história, os homens e o tempo. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_6_2",
@@ -1406,7 +1590,9 @@
         "E) à identidade de todas as fontes"
       ],
       "r": "C",
-      "e": "Apologia da História, capítulo II, A observação histórica."
+      "e": "Apologia da História, capítulo II, A observação histórica. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_6_3",
@@ -1421,7 +1607,9 @@
         "E) não deve ser considerada obrigatoriamente digna de crédito"
       ],
       "r": "E",
-      "e": "Apologia da História, capítulo III, A crítica, inicia discutindo a confiabilidade dos testemunhos."
+      "e": "Apologia da História, capítulo III, A crítica, inicia discutindo a confiabilidade dos testemunhos. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_6_4",
@@ -1436,7 +1624,9 @@
         "E) à economia do tempo"
       ],
       "r": "B",
-      "e": "Apologia da História, capítulo IV, A análise histórica, seção Julgar ou compreender?."
+      "e": "Apologia da História, capítulo IV, A análise histórica, seção Julgar ou compreender?. Fonte para conferência: Apologia da História — Marc Bloch, capítulo I.",
+      "source": "Apologia da História — Marc Bloch, capítulo I",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_6_5",
@@ -1451,7 +1641,9 @@
         "E) a classificação de testemunhos"
       ],
       "r": "D",
-      "e": "Apologia da História, capítulo V, afirma que os historiadores não escapam às perguntas por quê e porque."
+      "e": "Apologia da História, capítulo V, afirma que os historiadores não escapam às perguntas por quê e porque. Fonte para conferência: Apologia da História — Marc Bloch, capítulo V.",
+      "source": "Apologia da História — Marc Bloch, capítulo V",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_7_1",
@@ -1466,7 +1658,9 @@
         "E) Substituir a interpretação por uma lista de datas"
       ],
       "r": "B",
-      "e": "Breno Mendes, capítulo 1, situa Ricoeur diante de questões historiográficas de seu tempo."
+      "e": "Breno Mendes, capítulo 1, situa Ricoeur diante de questões historiográficas de seu tempo. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 1.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 1",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_7_2",
@@ -1481,7 +1675,9 @@
         "E) elimina as escolhas interpretativas"
       ],
       "r": "D",
-      "e": "Breno Mendes, capítulo 2, História e narrativa segundo Paul Ricoeur."
+      "e": "Breno Mendes, capítulo 2, História e narrativa segundo Paul Ricoeur. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 2",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_7_3",
@@ -1496,7 +1692,9 @@
         "E) A exclusão da interpretação da escrita histórica"
       ],
       "r": "A",
-      "e": "Breno Mendes, capítulo 3, História e ficção em Tempo e narrativa."
+      "e": "Breno Mendes, capítulo 3, História e ficção em Tempo e narrativa. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 3.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 3",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_7_4",
@@ -1511,7 +1709,9 @@
         "E) A rejeição de toda questão epistemológica"
       ],
       "r": "C",
-      "e": "Breno Mendes, capítulo 4, Verdade e representância do passado histórico."
+      "e": "Breno Mendes, capítulo 4, Verdade e representância do passado histórico. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 4.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, capítulo 4",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     },
     {
       "id": "hist_source_7_5",
@@ -1526,7 +1726,9 @@
         "E) desafio e felicidade de sua tradução"
       ],
       "r": "E",
-      "e": "A representação do passado histórico em Paul Ricoeur, Considerações finais."
+      "e": "A representação do passado histórico em Paul Ricoeur, Considerações finais. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, considerações finais.",
+      "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, considerações finais",
+      "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
     }
   ],
   "sources": [
@@ -1558,5 +1760,12 @@
       "name": "A Representação do Passado Histórico — Breno Mendes",
       "type": "zip"
     }
-  ]
+  ],
+  "audit": {
+    "date": "2026-10-19",
+    "reviewed": 101,
+    "method": "auditoria automatizada de estrutura e revisão editorial; fonte documental indicada por obra/capítulo quando identificável",
+    "limitations": "referências indicam localização de conferência, não comprovam validação literal individual de cada afirmação",
+    "discursivas_reviewed": 35
+  }
 }
