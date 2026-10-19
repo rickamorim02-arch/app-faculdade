@@ -1,6 +1,6 @@
 {
   "app": "Faculdade",
-  "bank_version": 7,
+  "bank_version": 8,
   "updated_at": "2026-10-19",
   "source": "7 matérias enviadas pelo usuário (5 PDFs e 2 ZIPs)",
   "subjects": [
@@ -1077,6 +1077,456 @@
       ],
       "r": "D",
       "e": "A conclusão discute o desafio e a felicidade da tradução do passado histórico."
+    },
+    {
+      "id": "hist_source_1_1",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "A escolha do historiador",
+      "q": "Bloch recusa uma definição rígida da história porque",
+      "o": [
+        "A) a investigação histórica comporta escolhas e problemas",
+        "B) a história não utiliza conceitos",
+        "C) todo acontecimento antigo é automaticamente histórico",
+        "D) o passado é inteiramente transparente",
+        "E) não existe investigação histórica"
+      ],
+      "r": "A",
+      "e": "A apresentação, seção 1, afirma que a história é pesquisa e toda pesquisa implica escolha."
+    },
+    {
+      "id": "hist_source_1_2",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "O objeto da história",
+      "q": "Na apresentação, uma transformação geológica antiga não é automaticamente objeto da história porque",
+      "o": [
+        "A) geologia é uma ciência impossível",
+        "B) todo passado pertence exclusivamente à história",
+        "C) a antiguidade por si só não define a investigação histórica",
+        "D) somente textos escritos têm passado",
+        "E) os fenômenos naturais não possuem duração"
+      ],
+      "r": "C",
+      "e": "A apresentação diferencia o passado em geral das experiências humanas no tempo."
+    },
+    {
+      "id": "hist_source_1_3",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "O tempo histórico",
+      "q": "Para compreender historicamente uma instituição, deve-se considerar",
+      "o": [
+        "A) apenas sua data de criação",
+        "B) somente sua situação atual",
+        "C) unicamente a cronologia de governantes",
+        "D) a ausência de contexto",
+        "E) sua duração, transformações e relações com outras experiências"
+      ],
+      "r": "E",
+      "e": "A apresentação, seção sobre tempo histórico, insiste em duração e transformação."
+    },
+    {
+      "id": "hist_source_1_4",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Passeidade",
+      "q": "A aproximação entre Bloch e Ricoeur no material surge do fato de que",
+      "o": [
+        "A) os dois negam que acontecimentos ocorreram",
+        "B) ações humanas passadas são conhecidas por marcas presentes",
+        "C) o historiador observa diretamente todos os acontecimentos",
+        "D) Ricoeur elimina a noção de tempo",
+        "E) Bloch rejeita vestígios"
+      ],
+      "r": "B",
+      "e": "A apresentação aproxima a investigação dos homens no tempo e o problema do passado ausente."
+    },
+    {
+      "id": "hist_source_2_1",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Pressuposições",
+      "q": "Qual noção Ricoeur toma como princípio estruturante do ato de narrar?",
+      "o": [
+        "A) cronômetro",
+        "B) pôr-em-intriga",
+        "C) classificação biológica",
+        "D) memorização literal",
+        "E) causalidade mecânica"
+      ],
+      "r": "B",
+      "e": "Entre tempo e narrativa, p. 299, identifica a operação de pôr-em-intriga como princípio estruturante."
+    },
+    {
+      "id": "hist_source_2_2",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Mundo da obra",
+      "q": "Na segunda pressuposição, interpretar uma obra é interpretar",
+      "o": [
+        "A) somente o vocabulário do autor",
+        "B) uma lista de acontecimentos isolados",
+        "C) exclusivamente o ano de publicação",
+        "D) o mundo proposto que a obra desdobra",
+        "E) uma sequência sem referência"
+      ],
+      "r": "D",
+      "e": "Entre tempo e narrativa, p. 300, descreve o mundo da obra como mundo proposto."
+    },
+    {
+      "id": "hist_source_2_3",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Temporalidade",
+      "q": "A terceira pressuposição de Ricoeur relaciona a referência narrativa",
+      "o": [
+        "A) ao caráter temporal da experiência humana",
+        "B) somente ao espaço físico",
+        "C) ao desaparecimento do leitor",
+        "D) à rejeição de qualquer intriga",
+        "E) ao tempo exclusivamente quantitativo"
+      ],
+      "r": "A",
+      "e": "Entre tempo e narrativa, p. 300, explicita a correlação entre narratividade e temporalidade."
+    },
+    {
+      "id": "hist_source_2_4",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Poema",
+      "q": "No exemplo agostiniano da recitação de um poema, o futuro antecipado",
+      "o": [
+        "A) permanece sempre inalterado",
+        "B) não se relaciona com a atenção",
+        "C) decresce à medida que cresce o passado lembrado",
+        "D) substitui toda memória",
+        "E) torna o presente eterno"
+      ],
+      "r": "C",
+      "e": "Entre tempo e narrativa, pp. 301-302, discute expectativa, atenção e lembrança na recitação."
+    },
+    {
+      "id": "hist_source_3_1",
+      "s": "Memória, História e Esquecimento",
+      "t": "Mnèmè",
+      "q": "Na fenomenologia da memória, mnèmè designa",
+      "o": [
+        "A) a previsão econômica",
+        "B) a composição de ficção",
+        "C) a lembrança",
+        "D) a medida do relógio",
+        "E) a crítica de autenticidade"
+      ],
+      "r": "C",
+      "e": "Memória, história e esquecimento, seção 2, diferencia lembrança e busca da lembrança."
+    },
+    {
+      "id": "hist_source_3_2",
+      "s": "Memória, História e Esquecimento",
+      "t": "Anamnèsis",
+      "q": "No artigo, anamnèsis remete",
+      "o": [
+        "A) ao esquecimento definitivo",
+        "B) à inexistência do passado",
+        "C) à percepção do futuro",
+        "D) à produção de relógios",
+        "E) à busca da lembrança"
+      ],
+      "r": "E",
+      "e": "Memória, história e esquecimento, seção 2, apresenta anamnèsis como busca da lembrança."
+    },
+    {
+      "id": "hist_source_3_3",
+      "s": "Memória, História e Esquecimento",
+      "t": "Sujeito da memória",
+      "q": "Na mediação proposta por Ricoeur entre memória individual e coletiva aparecem",
+      "o": [
+        "A) apenas Estado e mercado",
+        "B) eu, próximos e outros",
+        "C) somente indivíduo isolado",
+        "D) só documentos oficiais",
+        "E) apenas historiadores profissionais"
+      ],
+      "r": "B",
+      "e": "Memória, história e esquecimento, seção 2, destaca a tríplice atribuição da memória."
+    },
+    {
+      "id": "hist_source_3_4",
+      "s": "Memória, História e Esquecimento",
+      "t": "Memória e política",
+      "q": "O artigo considera que a memória pode participar",
+      "o": [
+        "A) somente da medida cronológica",
+        "B) exclusivamente da fisiologia cerebral",
+        "C) da eliminação de identidades",
+        "D) da construção de identidades e ações políticas",
+        "E) do fim da vida social"
+      ],
+      "r": "D",
+      "e": "Memória, história e esquecimento, introdução, ressalta dimensões sociais e políticas da memória."
+    },
+    {
+      "id": "hist_source_4_1",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Regularidade natural",
+      "q": "Segundo José Carlos Reis, a regularidade natural do tempo pode ser percebida",
+      "o": [
+        "A) somente em documentos administrativos",
+        "B) apenas no calendário bancário",
+        "C) exclusivamente no relógio industrial",
+        "D) no retorno das estações e na alternância de dia e noite",
+        "E) na ausência de ritmos corporais"
+      ],
+      "r": "D",
+      "e": "O tempo histórico como representação intelectual, seção O que é o tempo?, cita estações e movimentos celestes."
+    },
+    {
+      "id": "hist_source_4_2",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Relógio vivo",
+      "q": "A expressão relógio vivo é usada para tratar",
+      "o": [
+        "A) das periodicidades do corpo humano",
+        "B) da disciplina escolar",
+        "C) dos mecanismos de um relógio de bolso",
+        "D) da construção de cidades",
+        "E) da história exclusivamente política"
+      ],
+      "r": "A",
+      "e": "O tempo histórico como representação intelectual, p. 2, menciona ritmos corporais circadianos."
+    },
+    {
+      "id": "hist_source_4_3",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Tempo religioso",
+      "q": "No exemplo histórico de Reis, os sinos regulavam",
+      "o": [
+        "A) apenas mercados financeiros",
+        "B) somente fábricas modernas",
+        "C) ritmos religiosos e sociais",
+        "D) exclusivamente a navegação",
+        "E) a astronomia matemática"
+      ],
+      "r": "C",
+      "e": "O tempo histórico como representação intelectual, p. 2, trata de rezas, missas e festas."
+    },
+    {
+      "id": "hist_source_4_4",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Duração psicológica",
+      "q": "O tempo psicológico é descrito por Reis como",
+      "o": [
+        "A) sempre idêntico ao tempo mecânico",
+        "B) absolutamente regular",
+        "C) sem relação com experiência",
+        "D) independente de transformações",
+        "E) qualitativo, afetivo e heterogêneo"
+      ],
+      "r": "E",
+      "e": "O tempo histórico como representação intelectual, p. 3, contrasta duração psicológica e tempo abstrato."
+    },
+    {
+      "id": "hist_source_5_1",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "A marca do passado",
+      "q": "Ricoeur situa a questão do passado na fronteira entre",
+      "o": [
+        "A) astronomia e geografia",
+        "B) economia e direito",
+        "C) linguística e biologia",
+        "D) estatística e física",
+        "E) epistemologia e ontologia"
+      ],
+      "r": "E",
+      "e": "A marca do passado, p. 330, explicita o estatuto epistemológico e ontológico da questão."
+    },
+    {
+      "id": "hist_source_5_2",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Passeidade",
+      "q": "A passeidade nomeia",
+      "o": [
+        "A) a inexistência de qualquer experiência",
+        "B) o caráter passado daquilo que foi",
+        "C) somente o futuro possível",
+        "D) um lugar de armazenamento físico",
+        "E) a duração de um relógio"
+      ],
+      "r": "B",
+      "e": "A marca do passado, p. 330, discute o passado como adjetivo substantivado."
+    },
+    {
+      "id": "hist_source_5_3",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Advérbios temporais",
+      "q": "Expressões como outrora, antes e depois indicam",
+      "o": [
+        "A) apenas posições geográficas",
+        "B) somente valores morais",
+        "C) uma memória infalível",
+        "D) distância temporal e relações de anterioridade e posterioridade",
+        "E) a ausência de sucessão"
+      ],
+      "r": "D",
+      "e": "A marca do passado, p. 330, examina os advérbios de tempo."
+    },
+    {
+      "id": "hist_source_5_4",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Crítica do testemunho",
+      "q": "Segundo o resumo de A marca do passado, a credibilidade narrativa depende especialmente",
+      "o": [
+        "A) da confrontação de testemunhos e seus graus de fiabilidade",
+        "B) da aceitação do primeiro relato",
+        "C) da recusa de toda memória pública",
+        "D) de uma semelhança visual perfeita",
+        "E) da impossibilidade de crítica"
+      ],
+      "r": "A",
+      "e": "A marca do passado, resumo, destaca a confrontação de diferentes testemunhos."
+    },
+    {
+      "id": "hist_source_6_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo I — Objeto",
+      "q": "Em Apologia da História, a definição do objeto histórico articula",
+      "o": [
+        "A) homens e tempo",
+        "B) datas e ausência de sujeitos",
+        "C) somente a natureza física",
+        "D) apenas acontecimentos militares",
+        "E) ficção e futuro"
+      ],
+      "r": "A",
+      "e": "Apologia da História, capítulo I, A história, os homens e o tempo."
+    },
+    {
+      "id": "hist_source_6_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo II — Observação",
+      "q": "A observação histórica exige especial atenção",
+      "o": [
+        "A) à presença física em todos os acontecimentos",
+        "B) à dispensa de qualquer documento",
+        "C) às condições de acesso aos testemunhos e vestígios",
+        "D) à impossibilidade de formular perguntas",
+        "E) à identidade de todas as fontes"
+      ],
+      "r": "C",
+      "e": "Apologia da História, capítulo II, A observação histórica."
+    },
+    {
+      "id": "hist_source_6_3",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo III — Crítica",
+      "q": "Bloch observa que a palavra das testemunhas",
+      "o": [
+        "A) é sempre infalível",
+        "B) não pode ser comparada",
+        "C) dispensa qualquer exame",
+        "D) é necessariamente falsa",
+        "E) não deve ser considerada obrigatoriamente digna de crédito"
+      ],
+      "r": "E",
+      "e": "Apologia da História, capítulo III, A crítica, inicia discutindo a confiabilidade dos testemunhos."
+    },
+    {
+      "id": "hist_source_6_4",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo IV — Compreender",
+      "q": "A questão julgar ou compreender aparece no capítulo dedicado",
+      "o": [
+        "A) à cronologia natural",
+        "B) à análise histórica",
+        "C) à física experimental",
+        "D) à ficção literária",
+        "E) à economia do tempo"
+      ],
+      "r": "B",
+      "e": "Apologia da História, capítulo IV, A análise histórica, seção Julgar ou compreender?."
+    },
+    {
+      "id": "hist_source_6_5",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo V — Causa",
+      "q": "Bloch critica a tentativa positivista de eliminar",
+      "o": [
+        "A) a investigação documental",
+        "B) a descrição de acontecimentos",
+        "C) a observação histórica",
+        "D) a ideia de causa da ciência",
+        "E) a classificação de testemunhos"
+      ],
+      "r": "D",
+      "e": "Apologia da História, capítulo V, afirma que os historiadores não escapam às perguntas por quê e porque."
+    },
+    {
+      "id": "hist_source_7_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 1 — Historiografia",
+      "q": "O primeiro capítulo de Breno Mendes aborda",
+      "o": [
+        "A) somente o tempo dos relógios",
+        "B) Ricoeur em face de questões historiográficas de seu tempo",
+        "C) a história natural de animais",
+        "D) a análise de dados econômicos",
+        "E) a astronomia antiga"
+      ],
+      "r": "B",
+      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 1."
+    },
+    {
+      "id": "hist_source_7_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 2 — Narrativa",
+      "q": "O segundo capítulo de Breno Mendes denomina-se",
+      "o": [
+        "A) História e geologia",
+        "B) O tempo do mercado",
+        "C) A biografia de Marc Bloch",
+        "D) História e narrativa segundo Paul Ricoeur",
+        "E) A crítica da física"
+      ],
+      "r": "D",
+      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 2."
+    },
+    {
+      "id": "hist_source_7_3",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 3 — Ficção",
+      "q": "O terceiro capítulo investiga",
+      "o": [
+        "A) História e ficção em Tempo e narrativa",
+        "B) somente a memória neurológica",
+        "C) o cálculo de séculos",
+        "D) a história dos calendários",
+        "E) a cronobiologia"
+      ],
+      "r": "A",
+      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 3."
+    },
+    {
+      "id": "hist_source_7_4",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 4 — Verdade",
+      "q": "O quarto capítulo concentra-se em",
+      "o": [
+        "A) apenas memorização de datas",
+        "B) biologia do envelhecimento",
+        "C) Verdade e representância do passado histórico",
+        "D) métodos de cronometração",
+        "E) organização de calendários"
+      ],
+      "r": "C",
+      "e": "A representação do passado histórico em Paul Ricoeur, capítulo 4."
+    },
+    {
+      "id": "hist_source_7_5",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Considerações finais",
+      "q": "As considerações finais de Breno Mendes apresentam a representação do passado como",
+      "o": [
+        "A) um dado que dispensa interpretação",
+        "B) impossibilidade de todo conhecimento",
+        "C) exclusivamente repetição literal",
+        "D) uma cronologia sem narrativa",
+        "E) desafio e felicidade de sua tradução"
+      ],
+      "r": "E",
+      "e": "A representação do passado histórico em Paul Ricoeur, Considerações finais."
     }
   ],
   "sources": [
