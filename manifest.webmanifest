@@ -4,5 +4,15 @@
   "start_url": "./",
   "display": "standalone",
   "background_color": "#020b17",
-  "theme_color": "#071a33"
+  "theme_color": "#071a33",
+  "description": "Faculdade — Shorts e questões discursivas de História",
+  "id": "./",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
