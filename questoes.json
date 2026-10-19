@@ -1,6 +1,6 @@
 {
   "app": "Faculdade",
-  "bank_version": 6,
+  "bank_version": 7,
   "updated_at": "2026-10-19",
   "source": "7 matérias enviadas pelo usuário (5 PDFs e 2 ZIPs)",
   "subjects": [
@@ -447,6 +447,636 @@
       ],
       "r": "E",
       "e": "O capítulo 4 discute a verdade histórica, incluindo objeções e respostas a Ricoeur."
+    },
+    {
+      "id": "hist_extra_1_1",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Problema histórico",
+      "q": "Por que um acontecimento anterior não é automaticamente objeto da história?",
+      "o": [
+        "A) Porque a história investiga experiências humanas no tempo",
+        "B) Porque todo passado é irreal",
+        "C) Porque só guerras são históricas",
+        "D) Porque o historiador estuda apenas o futuro",
+        "E) Porque fatos antigos dispensam análise"
+      ],
+      "r": "A",
+      "e": "O material diferencia o passado em geral do objeto especificamente humano da história."
+    },
+    {
+      "id": "hist_extra_1_2",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Marcas presentes",
+      "q": "Como o historiador acessa experiências humanas já ausentes?",
+      "o": [
+        "A) Por observação direta de todos os mortos",
+        "B) Por marcas e vestígios presentes",
+        "C) Por intuição sem evidências",
+        "D) Por uma cronologia sem documentos",
+        "E) Por negar que o passado ocorreu"
+      ],
+      "r": "B",
+      "e": "A apresentação aproxima Bloch e Ricoeur a partir dos vestígios deixados por ações humanas."
+    },
+    {
+      "id": "hist_extra_1_3",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Duração",
+      "q": "Historicizar uma prática significa compreendê-la",
+      "o": [
+        "A) somente por sua data inicial",
+        "B) sem mudanças",
+        "C) em sua duração, transformações e relações com seu tempo",
+        "D) como fenômeno isolado",
+        "E) fora das experiências humanas"
+      ],
+      "r": "C",
+      "e": "O tempo não é recipiente neutro; participa da inteligibilidade dos fenômenos."
+    },
+    {
+      "id": "hist_extra_1_4",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Continuidade",
+      "q": "A ideia de continuum temporal em Bloch convive com",
+      "o": [
+        "A) ausência de transformação",
+        "B) imobilidade absoluta",
+        "C) exclusão das experiências",
+        "D) mudança incessante",
+        "E) mera contagem de anos"
+      ],
+      "r": "D",
+      "e": "O tempo histórico envolve permanências e transformações."
+    },
+    {
+      "id": "hist_extra_1_5",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Pesquisa",
+      "q": "A sequência problema, escolha e investigação evidencia",
+      "o": [
+        "A) a neutralidade automática das fontes",
+        "B) a dispensabilidade do historiador",
+        "C) o fim da interpretação",
+        "D) a redução da história à memória",
+        "E) o caráter ativo da pesquisa histórica"
+      ],
+      "r": "E",
+      "e": "O passado não chega pronto ao pesquisador."
+    },
+    {
+      "id": "hist_extra_1_6",
+      "s": "A História, os Homens e o Tempo — Marc Bloch",
+      "t": "Ontologia",
+      "q": "Na comparação do material, a questão ontológica em Ricoeur pergunta",
+      "o": [
+        "A) o que significa dizer que algo foi",
+        "B) quantos anos tem cada documento",
+        "C) como abolir os testemunhos",
+        "D) como impedir interpretações",
+        "E) como substituir a história pela ficção"
+      ],
+      "r": "A",
+      "e": "A passeidade pergunta pelo modo de ser do passado ausente."
+    },
+    {
+      "id": "hist_extra_2_1",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Mundo da obra",
+      "q": "Para Ricoeur, interpretar um texto também implica considerar",
+      "o": [
+        "A) somente o número de páginas",
+        "B) a biografia como única referência",
+        "C) a eliminação do leitor",
+        "D) o mundo proposto pela obra",
+        "E) a inexistência de referência"
+      ],
+      "r": "D",
+      "e": "O ensaio apresenta a noção hermenêutica de mundo da obra."
+    },
+    {
+      "id": "hist_extra_2_2",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Três pressupostos",
+      "q": "A primeira pressuposição do ensaio afirma a identidade",
+      "o": [
+        "A) de todos os tempos físicos",
+        "B) entre narrativa e documento bruto",
+        "C) de todos os autores",
+        "D) entre memória e cronômetro",
+        "E) do ato de narrar em diferentes gêneros"
+      ],
+      "r": "E",
+      "e": "Ricoeur propõe o pôr-em-intriga como princípio estruturante comum."
+    },
+    {
+      "id": "hist_extra_2_3",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Agostinho",
+      "q": "O paradoxo temporal agostiniano inclui o fato de que",
+      "o": [
+        "A) o passado não é mais e o futuro ainda não é",
+        "B) o presente dura eternamente",
+        "C) o futuro já terminou",
+        "D) não existe lembrança",
+        "E) o tempo é apenas espaço"
+      ],
+      "r": "A",
+      "e": "Ricoeur examina a tensão entre os modos temporais na experiência humana."
+    },
+    {
+      "id": "hist_extra_2_4",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Poema",
+      "q": "Na recitação de um poema, a expectativa",
+      "o": [
+        "A) permanece invariável",
+        "B) diminui à medida que a lembrança aumenta",
+        "C) substitui inteiramente a atenção",
+        "D) impede qualquer memória",
+        "E) anula a duração"
+      ],
+      "r": "B",
+      "e": "O exemplo ilustra a dialética entre antecipação, atenção e lembrança."
+    },
+    {
+      "id": "hist_extra_2_5",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Aristóteles",
+      "q": "A categoria mythos retomada por Ricoeur refere-se à",
+      "o": [
+        "A) mensuração dos relógios",
+        "B) geometria do espaço",
+        "C) composição da intriga",
+        "D) origem biológica da memória",
+        "E) sucessão de números"
+      ],
+      "r": "C",
+      "e": "Ricoeur utiliza a Poética para discutir a operação de configuração narrativa."
+    },
+    {
+      "id": "hist_extra_2_6",
+      "s": "Entre Tempo e Narrativa — Paul Ricoeur",
+      "t": "Concordância e discordância",
+      "q": "A configuração narrativa articula",
+      "o": [
+        "A) apenas fatos idênticos",
+        "B) um tempo sem eventos",
+        "C) uma história sem começo",
+        "D) ordem de conjunto e diversidade de incidentes",
+        "E) a impossibilidade de interpretar"
+      ],
+      "r": "D",
+      "e": "A intriga media elementos heterogêneos numa totalidade significativa."
+    },
+    {
+      "id": "hist_extra_3_1",
+      "s": "Memória, História e Esquecimento",
+      "t": "Anamnese",
+      "q": "A anamnese distingue-se da simples ocorrência da lembrança por envolver",
+      "o": [
+        "A) a invenção sem passado",
+        "B) a busca da lembrança",
+        "C) o apagamento de documentos",
+        "D) a suspensão do tempo",
+        "E) a ausência de sujeito"
+      ],
+      "r": "B",
+      "e": "O artigo diferencia lembrança e busca da lembrança ao abordar a fenomenologia da memória."
+    },
+    {
+      "id": "hist_extra_3_2",
+      "s": "Memória, História e Esquecimento",
+      "t": "Reconhecimento",
+      "q": "O reconhecimento memorial aponta para",
+      "o": [
+        "A) uma previsão do futuro",
+        "B) a substituição de toda fonte",
+        "C) a percepção de algo como tendo sido",
+        "D) a inexistência de experiências",
+        "E) uma lembrança sem temporalidade"
+      ],
+      "r": "C",
+      "e": "O artigo associa reconhecimento à pretensão de fidelidade ao passado."
+    },
+    {
+      "id": "hist_extra_3_3",
+      "s": "Memória, História e Esquecimento",
+      "t": "Aporia",
+      "q": "A oposição memória e imaginação é relevante porque",
+      "o": [
+        "A) toda imagem é testemunho verdadeiro",
+        "B) imaginar e lembrar são idênticos",
+        "C) a memória não contém imagens",
+        "D) uma lembrança pretende referir-se a algo ocorrido",
+        "E) o passado não pode ser representado"
+      ],
+      "r": "D",
+      "e": "O artigo examina o enigma da representação presente de algo ausente."
+    },
+    {
+      "id": "hist_extra_3_4",
+      "s": "Memória, História e Esquecimento",
+      "t": "Exteriorização",
+      "q": "Monumentos, fotografias e documentos exemplificam",
+      "o": [
+        "A) lembranças sem qualquer suporte",
+        "B) apenas previsões",
+        "C) provas de memória infalível",
+        "D) a ausência de temporalidade",
+        "E) marcas materiais de experiências passadas"
+      ],
+      "r": "E",
+      "e": "O artigo relaciona marcas psíquicas e registros materiais na produção histórica."
+    },
+    {
+      "id": "hist_extra_3_5",
+      "s": "Memória, História e Esquecimento",
+      "t": "Identidade",
+      "q": "Memória e identidade são apresentadas como",
+      "o": [
+        "A) mutuamente relacionadas e socialmente construídas",
+        "B) processos totalmente separados",
+        "C) fenômenos exclusivamente biológicos",
+        "D) realidades imutáveis",
+        "E) categorias sem relação com o outro"
+      ],
+      "r": "A",
+      "e": "O texto destaca o papel da memória na formação e revisão de identidades."
+    },
+    {
+      "id": "hist_extra_3_6",
+      "s": "Memória, História e Esquecimento",
+      "t": "Tríade",
+      "q": "Os eixos apresentados no artigo incluem",
+      "o": [
+        "A) somente história política e economia",
+        "B) memória, saber histórico e esquecimento",
+        "C) geografia, física e química",
+        "D) narrativa sem fontes e ficção",
+        "E) tempo mecânico e astronomia"
+      ],
+      "r": "B",
+      "e": "O estudo articula fenomenologia da memória, epistemologia histórica e hermenêutica da condição histórica."
+    },
+    {
+      "id": "hist_extra_4_1",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Ritmos naturais",
+      "q": "Qual exemplo aparece como percepção natural do tempo?",
+      "o": [
+        "A) Relógio de ponto industrial",
+        "B) Calendário escolar apenas",
+        "C) Taxas de juros somente",
+        "D) Datação de documentos exclusivamente",
+        "E) Alternância de dia e noite"
+      ],
+      "r": "E",
+      "e": "O artigo menciona movimentos celestes e estações como regularidades percebidas."
+    },
+    {
+      "id": "hist_extra_4_2",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Corpo",
+      "q": "A ideia de relógio vivo refere-se",
+      "o": [
+        "A) a ritmos corporais e periodicidade biológica",
+        "B) ao relógio de pulso",
+        "C) à inexistência de ciclos",
+        "D) ao calendário religioso",
+        "E) ao tempo ficcional"
+      ],
+      "r": "A",
+      "e": "O texto menciona funções vitais temporais e ritmos circadianos."
+    },
+    {
+      "id": "hist_extra_4_3",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Vida camponesa",
+      "q": "Antes da centralidade do relógio mecânico, a rotina agrária era orientada",
+      "o": [
+        "A) por sirenes industriais universais",
+        "B) pela sucessão de tarefas e ciclos naturais",
+        "C) por fusos horários digitais",
+        "D) pela ausência de qualquer duração",
+        "E) por calendários financeiros exclusivamente"
+      ],
+      "r": "B",
+      "e": "O texto descreve atividades como plantar, colher e pastorear."
+    },
+    {
+      "id": "hist_extra_4_4",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Tempo religioso",
+      "q": "O tempo religioso medieval é exemplificado por",
+      "o": [
+        "A) somente relógios digitais",
+        "B) produção fabril em série",
+        "C) sinos, missas e festas",
+        "D) exclusivamente bolsas de valores",
+        "E) ausência de calendário"
+      ],
+      "r": "C",
+      "e": "O artigo discute ritmos coletivos organizados por práticas religiosas."
+    },
+    {
+      "id": "hist_extra_4_5",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Metáforas",
+      "q": "Uma metáfora do tempo usada no texto é",
+      "o": [
+        "A) a pedra imóvel",
+        "B) a reta sem duração",
+        "C) o espaço sem movimento",
+        "D) o rio que flui sem retornar",
+        "E) o relógio parado"
+      ],
+      "r": "D",
+      "e": "O rio ilustra devir e irreversibilidade na reflexão temporal."
+    },
+    {
+      "id": "hist_extra_4_6",
+      "s": "O Tempo Histórico como Representação Intelectual — José Carlos Reis",
+      "t": "Finitude",
+      "q": "A reflexão sobre eternidade emerge no texto em conexão com",
+      "o": [
+        "A) a eliminação da morte",
+        "B) a suspensão de toda mudança",
+        "C) o desaparecimento da cultura",
+        "D) a negação de qualquer paradoxo",
+        "E) a experiência humana da finitude"
+      ],
+      "r": "E",
+      "e": "O autor aborda o desejo de eternidade diante da limitação temporal."
+    },
+    {
+      "id": "hist_extra_5_1",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Referente",
+      "q": "A questão do referente diz respeito",
+      "o": [
+        "A) somente à ortografia dos verbos",
+        "B) à previsão meteorológica",
+        "C) à relação da memória e da história com o passado",
+        "D) ao cálculo de datas futuras",
+        "E) à ausência de testemunhos"
+      ],
+      "r": "C",
+      "e": "Ricoeur interroga a fidelidade memorial e a verdade histórica."
+    },
+    {
+      "id": "hist_extra_5_2",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Anterioridade",
+      "q": "A passeidade não é apenas ausência, mas também",
+      "o": [
+        "A) expectativa de algo não ocorrido",
+        "B) inexistência absoluta",
+        "C) tempo sem acontecimentos",
+        "D) anterioridade de algo ocorrido",
+        "E) ficção obrigatória"
+      ],
+      "r": "D",
+      "e": "O passado é simultaneamente o que foi e o que não é mais."
+    },
+    {
+      "id": "hist_extra_5_3",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Metáfora da cera",
+      "q": "A impressão de um sinete sobre cera serve como metáfora de",
+      "o": [
+        "A) produção de futuro",
+        "B) apagamento de toda experiência",
+        "C) certeza infalível",
+        "D) ausência de linguagem",
+        "E) marca ou vestígio da lembrança"
+      ],
+      "r": "E",
+      "e": "Ricoeur problematiza a tradição que reduz memória a impressão."
+    },
+    {
+      "id": "hist_extra_5_4",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Linguagem temporal",
+      "q": "Advérbios como outrora e antes expressam",
+      "o": [
+        "A) distância e relações de anterioridade",
+        "B) somente posição espacial",
+        "C) ausência de passado",
+        "D) igualdade entre presente e futuro",
+        "E) exclusivamente duração física"
+      ],
+      "r": "A",
+      "e": "O artigo considera advérbios e tempos verbais na análise da passeidade."
+    },
+    {
+      "id": "hist_extra_5_5",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Retrospecção",
+      "q": "A escrita da história é metodologicamente retrospectiva porque",
+      "o": [
+        "A) prevê com certeza os fatos futuros",
+        "B) se refere a acontecimentos anteriores à investigação",
+        "C) não depende de vestígios",
+        "D) ignora a anterioridade",
+        "E) observa o futuro diretamente"
+      ],
+      "r": "B",
+      "e": "Ricoeur destaca o recorte retrospectivo do objeto histórico."
+    },
+    {
+      "id": "hist_extra_5_6",
+      "s": "A Marca do Passado — Paul Ricoeur",
+      "t": "Futuro",
+      "q": "Ao final do percurso anunciado, Ricoeur propõe reconsiderar",
+      "o": [
+        "A) a inutilidade da memória",
+        "B) o fim dos testemunhos",
+        "C) a relação do futuro com a compreensão do passado",
+        "D) a inexistência do presente",
+        "E) a rejeição da verdade histórica"
+      ],
+      "r": "C",
+      "e": "O artigo anuncia o retorno da visada do futuro sobre a do passado."
+    },
+    {
+      "id": "hist_extra_6_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Introdução — Ofício",
+      "q": "O subtítulo da obra de Bloch indica uma reflexão sobre",
+      "o": [
+        "A) o ofício do historiador",
+        "B) apenas a vida de monarcas",
+        "C) a física experimental",
+        "D) a geologia",
+        "E) a literatura sem pesquisa"
+      ],
+      "r": "A",
+      "e": "A obra articula defesa da história e reflexão sobre seu método."
+    },
+    {
+      "id": "hist_extra_6_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo I — Escolha",
+      "q": "A escolha do historiador significa",
+      "o": [
+        "A) copiar todos os acontecimentos",
+        "B) delimitar problemas de pesquisa",
+        "C) ignorar perguntas",
+        "D) aceitar fontes sem crítica",
+        "E) substituir história por cronologia"
+      ],
+      "r": "B",
+      "e": "O capítulo I começa pela escolha e definição do objeto da história."
+    },
+    {
+      "id": "hist_extra_6_3",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo II — Fontes",
+      "q": "A observação histórica utiliza",
+      "o": [
+        "A) somente entrevistas ao vivo",
+        "B) apenas lembranças pessoais",
+        "C) testemunhos voluntários e vestígios não intencionais",
+        "D) nenhuma evidência",
+        "E) somente livros escolares"
+      ],
+      "r": "C",
+      "e": "O capítulo II trata da diversidade de testemunhos e da observação indireta."
+    },
+    {
+      "id": "hist_extra_6_4",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo III — Falsificação",
+      "q": "A crítica documental deve considerar",
+      "o": [
+        "A) que toda fonte é verdadeira",
+        "B) que toda fonte é falsa",
+        "C) que documentos dispensam contexto",
+        "D) possíveis erros e falsificações",
+        "E) que testemunhos não podem ser comparados"
+      ],
+      "r": "D",
+      "e": "Bloch discute a história do método crítico e os problemas do testemunho."
+    },
+    {
+      "id": "hist_extra_6_5",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo IV — Nomenclatura",
+      "q": "Na análise histórica, a nomenclatura é relevante para",
+      "o": [
+        "A) abolir conceitos",
+        "B) evitar toda comparação",
+        "C) transformar fatos em números apenas",
+        "D) dispensar a linguagem",
+        "E) nomear e classificar fenômenos de maneira crítica"
+      ],
+      "r": "E",
+      "e": "O capítulo IV aborda também nomenclatura e divisões da história."
+    },
+    {
+      "id": "hist_extra_6_6",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo V — Por quê",
+      "q": "A investigação causal parte de perguntas como",
+      "o": [
+        "A) por quê e porque",
+        "B) quando sem contexto",
+        "C) quanto sem interpretação",
+        "D) quem sem evidência",
+        "E) onde sem problemas"
+      ],
+      "r": "A",
+      "e": "Bloch sustenta a legitimidade das questões causais no trabalho científico."
+    },
+    {
+      "id": "hist_extra_7_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 1 — Debate",
+      "q": "Breno Mendes situa Ricoeur em face",
+      "o": [
+        "A) apenas de problemas matemáticos",
+        "B) de um tempo sem cultura",
+        "C) de uma ciência sem linguagem",
+        "D) de questões historiográficas de seu tempo",
+        "E) da exclusão da filosofia"
+      ],
+      "r": "D",
+      "e": "O capítulo inicial apresenta interlocuções historiográficas e filosóficas."
+    },
+    {
+      "id": "hist_extra_7_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 2 — Tempo",
+      "q": "A discussão de história e narrativa está ligada",
+      "o": [
+        "A) à recusa de qualquer narrativa",
+        "B) à equivalência entre cronologia e interpretação",
+        "C) à ausência de acontecimentos",
+        "D) à impossibilidade de compreender textos",
+        "E) à possibilidade de narrar a experiência temporal"
+      ],
+      "r": "E",
+      "e": "O capítulo 2 explora a articulação narrativa do tempo."
+    },
+    {
+      "id": "hist_extra_7_3",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 2 — Configuração",
+      "q": "A narrativa historiográfica implica",
+      "o": [
+        "A) configurar acontecimentos numa exposição inteligível",
+        "B) apenas listar nomes",
+        "C) repetir documentos sem análise",
+        "D) negar a linguagem",
+        "E) abandonar o tempo"
+      ],
+      "r": "A",
+      "e": "O debate sobre história e narrativa investiga a composição do relato."
+    },
+    {
+      "id": "hist_extra_7_4",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 3 — Distinção",
+      "q": "Ao discutir história e ficção, a questão decisiva é",
+      "o": [
+        "A) provar que toda história é inventada",
+        "B) como aproximá-las sem apagar suas diferenças",
+        "C) eliminar a referência ao passado",
+        "D) dispensar pesquisa histórica",
+        "E) substituir testemunhos por imaginação"
+      ],
+      "r": "B",
+      "e": "O capítulo 3 examina as relações entre história e ficção em Tempo e narrativa."
+    },
+    {
+      "id": "hist_extra_7_5",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 4 — Verdade",
+      "q": "A representância é debatida em relação",
+      "o": [
+        "A) à física do movimento",
+        "B) à matemática abstrata",
+        "C) à verdade e à representação do passado histórico",
+        "D) à ausência de qualquer referente",
+        "E) à previsão do clima"
+      ],
+      "r": "C",
+      "e": "O capítulo 4 tem por título Verdade e representância do passado histórico."
+    },
+    {
+      "id": "hist_extra_7_6",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Considerações finais — Tradução",
+      "q": "As considerações finais associam a representação do passado",
+      "o": [
+        "A) ao desaparecimento da historiografia",
+        "B) à ausência de fontes",
+        "C) ao fim da interpretação",
+        "D) ao desafio de sua tradução",
+        "E) à identidade automática entre fato e relato"
+      ],
+      "r": "D",
+      "e": "A conclusão discute o desafio e a felicidade da tradução do passado histórico."
     }
   ],
   "sources": [
