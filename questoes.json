@@ -1,6 +1,6 @@
 {
   "app": "Faculdade",
-  "bank_version": 9,
+  "bank_version": 10,
   "updated_at": "2026-10-19",
   "source": "7 matérias enviadas pelo usuário (5 PDFs e 2 ZIPs)",
   "subjects": [
@@ -1729,6 +1729,414 @@
       "e": "A representação do passado histórico em Paul Ricoeur, Considerações finais. Fonte para conferência: A representação do passado histórico em Paul Ricoeur — Breno Mendes, considerações finais.",
       "source": "A representação do passado histórico em Paul Ricoeur — Breno Mendes, considerações finais",
       "audit_status": "revisão editorial; conferência literal de cada passagem ainda necessária"
+    },
+    {
+      "id": "zip_deep_1_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Introdução — A pergunta pelo ofício",
+      "q": "Na abertura de Apologia da História, a pergunta dirigida ao historiador pede principalmente",
+      "o": [
+        "A) que esclareça para que serve a história",
+        "B) que abandone a investigação das fontes",
+        "C) que transforme a história em cronologia dinástica",
+        "D) que explique apenas o funcionamento dos relógios",
+        "E) que reduza a história à biografia dos reis"
+      ],
+      "r": "A",
+      "e": "Bloch, Introdução: a pergunta sobre a utilidade da história conduz à reflexão sobre o ofício do historiador.",
+      "source": "Apologia da História — Marc Bloch, Introdução",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_1_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Introdução — Legitimidade",
+      "q": "A defesa da história proposta na introdução não se limita",
+      "o": [
+        "A) à investigação de documentos",
+        "B) à formulação de problemas",
+        "C) a uma justificação utilitária imediata",
+        "D) ao exame dos métodos",
+        "E) à reflexão sobre o conhecimento"
+      ],
+      "r": "C",
+      "e": "Bloch, Introdução: a legitimidade da investigação histórica não se esgota numa utilidade prática instantânea.",
+      "source": "Apologia da História — Marc Bloch, Introdução",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_2_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo I — Objeto histórico",
+      "q": "Por que a expressão ciência dos homens no tempo é mais precisa do que ciência do passado?",
+      "o": [
+        "A) Porque elimina o estudo das sociedades",
+        "B) Porque identifica a dimensão humana e temporal da investigação",
+        "C) Porque exige documentos exclusivamente escritos",
+        "D) Porque nega mudanças históricas",
+        "E) Porque restringe o estudo às guerras"
+      ],
+      "r": "B",
+      "e": "Bloch, capítulo I, A história, os homens e o tempo: o passado em geral não basta para definir o objeto histórico.",
+      "source": "Apologia da História — Marc Bloch, Capítulo I",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_2_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo I — Ídolo das origens",
+      "q": "Qual risco metodológico Bloch associa à obsessão pelas origens?",
+      "o": [
+        "A) Distinguir fenômenos em sua duração",
+        "B) Confrontar fontes de épocas diferentes",
+        "C) Reconhecer mudanças sociais",
+        "D) Confundir a explicação de um fenômeno com a identificação de seu começo",
+        "E) Estudar os efeitos de um acontecimento"
+      ],
+      "r": "D",
+      "e": "Bloch, capítulo I, seção sobre o ídolo das origens: conhecer o começo não equivale a explicar o fenômeno.",
+      "source": "Apologia da História — Marc Bloch, Capítulo I",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_3_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo II — Testemunho indireto",
+      "q": "A comparação do historiador com um investigador que reconstrói um crime ressalta",
+      "o": [
+        "A) a impossibilidade de investigar o passado",
+        "B) a inutilidade dos vestígios",
+        "C) o acesso mediado a acontecimentos não presenciados",
+        "D) a identidade entre testemunho e verdade",
+        "E) a necessidade de conhecer pessoalmente os envolvidos"
+      ],
+      "r": "C",
+      "e": "Bloch, capítulo II, A observação histórica: o autor compara a reconstrução do passado ao trabalho de um investigador que não presenciou o crime.",
+      "source": "Apologia da História — Marc Bloch, Capítulo II",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_3_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo II — Observação do passado",
+      "q": "Por que Bloch considera necessário nuançar a oposição entre observação do presente e do passado?",
+      "o": [
+        "A) Porque o passado pode ser observado integralmente de modo direto",
+        "B) Porque a memória nunca falha",
+        "C) Porque fontes escritas substituem todas as outras",
+        "D) Porque a história dispensa observação",
+        "E) Porque o conhecimento do presente também pode depender de relatos e mediações"
+      ],
+      "r": "E",
+      "e": "Bloch, capítulo II: o caráter indireto do conhecimento não distingue de modo absoluto passado e presente.",
+      "source": "Apologia da História — Marc Bloch, Capítulo II",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_4_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo III — Falsificação",
+      "q": "O exemplo da Doação de Constantino aparece no debate de Bloch para discutir",
+      "o": [
+        "A) a impossibilidade de distinguir fontes",
+        "B) a verdade obrigatória de documentos religiosos",
+        "C) o abandono da comparação de manuscritos",
+        "D) a necessidade de crítica diante de documentos falsificados",
+        "E) a superioridade automática de documentos antigos"
+      ],
+      "r": "D",
+      "e": "Bloch, capítulo III, A crítica: a Doação de Constantino é citada na discussão histórica sobre falsificações.",
+      "source": "Apologia da História — Marc Bloch, Capítulo III",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_4_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo III — Desconfiança crítica",
+      "q": "A dúvida metódica diante de testemunhos significa",
+      "o": [
+        "A) examinar sua proveniência e credibilidade em vez de aceitá-los automaticamente",
+        "B) rejeitar toda fonte antes de lê-la",
+        "C) supor que toda testemunha mente",
+        "D) preferir sempre a versão mais antiga",
+        "E) ignorar o contexto de produção"
+      ],
+      "r": "A",
+      "e": "Bloch, capítulo III: a crítica é um procedimento de exame, não ceticismo indiscriminado.",
+      "source": "Apologia da História — Marc Bloch, Capítulo III",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_5_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo IV — Juiz e cientista",
+      "q": "Na comparação entre juiz e cientista, Bloch destaca que ambos",
+      "o": [
+        "A) possuem idêntica finalidade de condenar",
+        "B) devem abandonar a análise",
+        "C) produzem apenas opiniões morais",
+        "D) não precisam examinar provas",
+        "E) devem submeter-se honestamente à verdade, mas exercem funções distintas"
+      ],
+      "r": "E",
+      "e": "Bloch, capítulo IV, A análise histórica: juiz e cientista compartilham a exigência de verdade, mas diferem em seus objetivos.",
+      "source": "Apologia da História — Marc Bloch, Capítulo IV",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_5_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo IV — Imparcialidade",
+      "q": "O risco de entender a imparcialidade como passividade é",
+      "o": [
+        "A) avaliar criticamente documentos",
+        "B) renunciar à análise ativa dos fenômenos históricos",
+        "C) formular conceitos adequados",
+        "D) compreender os agentes em seu contexto",
+        "E) investigar as fontes de informação"
+      ],
+      "r": "B",
+      "e": "Bloch, capítulo IV: a imparcialidade não deve ser confundida com mera reprodução passiva do passado.",
+      "source": "Apologia da História — Marc Bloch, Capítulo IV",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_6_1",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo V — Causalidade crítica",
+      "q": "Por que Bloch não aceita relegar a investigação causal ao instinto?",
+      "o": [
+        "A) Porque o uso da causalidade no conhecimento histórico exige consciência crítica",
+        "B) Porque não existem relações de causa e efeito",
+        "C) Porque toda causa pode ser observada diretamente",
+        "D) Porque a causalidade elimina a interpretação",
+        "E) Porque apenas uma causa explica cada acontecimento"
+      ],
+      "r": "A",
+      "e": "Bloch, capítulo V, A causalidade histórica: a relação causal como ferramenta de conhecimento exige exame crítico.",
+      "source": "Apologia da História — Marc Bloch, Capítulo V",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_6_2",
+      "s": "Apologia da História — Marc Bloch",
+      "t": "Capítulo V — Causas e condições",
+      "q": "Na explicação histórica, identificar uma causa exige",
+      "o": [
+        "A) escolher automaticamente o evento mais recente",
+        "B) considerar todas as condições igualmente decisivas",
+        "C) analisar criticamente a relação entre circunstâncias e acontecimento",
+        "D) dispensar hipóteses",
+        "E) evitar perguntas por quê"
+      ],
+      "r": "C",
+      "e": "Bloch, capítulo V: a investigação das relações causais requer discernimento, não aplicação automática de uma fórmula.",
+      "source": "Apologia da História — Marc Bloch, Capítulo V",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_7_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Introdução — Problema central",
+      "q": "Na introdução, Breno Mendes organiza sua investigação em torno",
+      "o": [
+        "A) da contagem de anos entre guerras",
+        "B) da representação do passado histórico na filosofia de Paul Ricoeur",
+        "C) da história exclusiva de uma instituição",
+        "D) da redução da historiografia à ficção",
+        "E) da negação da teoria da história"
+      ],
+      "r": "B",
+      "e": "Mendes, Introdução: o objeto da pesquisa é a representação do passado histórico na reflexão ricoeuriana.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Introdução",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_7_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Introdução — Diálogo disciplinar",
+      "q": "A aproximação entre filosofia e historiografia é importante na pesquisa porque",
+      "o": [
+        "A) a filosofia elimina a necessidade de fontes",
+        "B) a historiografia dispensa qualquer reflexão conceitual",
+        "C) o passado pode ser reproduzido integralmente",
+        "D) a representação do passado envolve questões narrativas e epistemológicas",
+        "E) a narrativa substitui o acontecimento"
+      ],
+      "r": "D",
+      "e": "Mendes, Introdução: a pesquisa articula problemas filosóficos e historiográficos da representação.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Introdução",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_8_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 1 — Leitor dialógico",
+      "q": "Mendes caracteriza Ricoeur como leitor virtuose para destacar",
+      "o": [
+        "A) a recusa de qualquer interlocução filosófica",
+        "B) o abandono da hermenêutica",
+        "C) seu estilo de pensamento construído em diálogo com outros autores",
+        "D) a exclusão da historiografia",
+        "E) a inexistência de debates intelectuais"
+      ],
+      "r": "C",
+      "e": "Mendes, capítulo 1: o estilo dialógico de Ricoeur é apresentado entre as características de sua trajetória.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 1",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_8_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 1 — Filosofia da suspeita",
+      "q": "O capítulo 1 situa o diálogo de Ricoeur com o estruturalismo e a filosofia da suspeita",
+      "o": [
+        "A) como recusa de toda leitura de textos",
+        "B) como prova de que narrativa e tempo são idênticos",
+        "C) como substituição da filosofia pela cronologia",
+        "D) como rejeição de qualquer interpretação",
+        "E) em debates intelectuais que marcaram sua trajetória"
+      ],
+      "r": "E",
+      "e": "Mendes, capítulo 1: estruturalismo e filosofia da suspeita figuram entre os debates examinados.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 1",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_9_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 2 — Guinada crítica",
+      "q": "A referência ao tournant critique no capítulo 2 diz respeito",
+      "o": [
+        "A) a uma mudança na duração do calendário",
+        "B) ao fim de todas as narrativas",
+        "C) à descoberta de um documento antigo",
+        "D) a uma inflexão nos debates historiográficos sobre modelos explicativos",
+        "E) à eliminação da reflexão epistemológica"
+      ],
+      "r": "D",
+      "e": "Mendes, capítulo 2: o tournant critique aparece no contexto da discussão historiográfica sobre modelos e narrativa.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 2",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_9_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 2 — Inovação semântica",
+      "q": "Na discussão ricoeuriana retomada por Mendes, a inovação semântica da narrativa está ligada",
+      "o": [
+        "A) à configuração de acontecimentos pela intriga",
+        "B) à contagem de sílabas isoladas",
+        "C) à mera repetição literal de documentos",
+        "D) à exclusão da linguagem",
+        "E) à inexistência de relações temporais"
+      ],
+      "r": "A",
+      "e": "Mendes, capítulo 2: o texto distingue a inovação semântica da metáfora e a da narrativa.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 2",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_10_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 3 — Ficção e falsidade",
+      "q": "Ao discutir história e ficção, Mendes chama atenção para a necessidade de",
+      "o": [
+        "A) supor que toda narrativa é mentira",
+        "B) rejeitar toda literatura",
+        "C) eliminar a pretensão de verdade histórica",
+        "D) tratar qualquer documento como romance",
+        "E) não identificar automaticamente ficção com falsidade"
+      ],
+      "r": "E",
+      "e": "Mendes, capítulo 3: a discussão problematiza as relações entre ficção, literatura e falsidade.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 3",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_10_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 3 — Literatura híbrida",
+      "q": "A referência à literatura como campo híbrido e elástico indica que",
+      "o": [
+        "A) toda literatura é documento falso",
+        "B) nem todo texto literário se reduz a narrativa ficcional",
+        "C) diários e cartas são sempre romances",
+        "D) a história não utiliza linguagem",
+        "E) não existem gêneros discursivos"
+      ],
+      "r": "B",
+      "e": "Mendes, capítulo 3: cartas, ensaios, diários e autobiografias ilustram a diversidade do campo literário.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 3",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_11_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 4 — Objetividade histórica",
+      "q": "Na leitura de Ricoeur apresentada por Mendes, a objetividade esperada da história",
+      "o": [
+        "A) deve ser examinada em relação ao trabalho do historiador e seus métodos",
+        "B) significa ausência completa de escolhas",
+        "C) dispensa qualquer interpretação",
+        "D) equivale a uma reprodução mecânica do passado",
+        "E) impede o exame das fontes"
+      ],
+      "r": "A",
+      "e": "Mendes, capítulo 4, seção 4.1, Objetividade e subjetividade em história: o texto problematiza as condições da objetividade.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 4",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_11_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Capítulo 4 — Subjetividade",
+      "q": "A discussão sobre objetividade e subjetividade em história exige",
+      "o": [
+        "A) excluir toda pergunta sobre o passado",
+        "B) considerar toda narrativa arbitrária",
+        "C) refletir sobre o papel do sujeito na pesquisa e na escrita historiográfica",
+        "D) abandonar os documentos",
+        "E) tratar a história como cálculo físico"
+      ],
+      "r": "C",
+      "e": "Mendes, capítulo 4, seção 4.1: a objetividade é examinada em tensão com a subjetividade do trabalho histórico.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Capítulo 4",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_12_1",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Considerações finais — Lembrança e esquecimento",
+      "q": "Nas considerações finais, Mendes menciona uma relação entre lembrança e esquecimento que",
+      "o": [
+        "A) exige memória integral sem perdas",
+        "B) recusa tanto a lembrança total quanto o esquecimento total",
+        "C) defende apagar todo acontecimento",
+        "D) nega a temporalidade",
+        "E) equivale a cronologia absoluta"
+      ],
+      "r": "B",
+      "e": "Mendes, Considerações finais: o texto discute a posição ricoeuriana diante de modelos de lembrança e esquecimento totais.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Considerações finais",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
+    },
+    {
+      "id": "zip_deep_12_2",
+      "s": "A Representação do Passado Histórico — Breno Mendes",
+      "t": "Considerações finais — Tradução do passado",
+      "q": "A metáfora da tradução do passado ressalta",
+      "o": [
+        "A) a possibilidade de reproduzir literalmente o acontecimento",
+        "B) a inutilidade da linguagem",
+        "C) a ausência de distância temporal",
+        "D) a mediação interpretativa necessária à representação histórica",
+        "E) a equivalência entre tradução e cópia perfeita"
+      ],
+      "r": "D",
+      "e": "Mendes, Considerações finais: a representação do passado é discutida como desafio de tradução.",
+      "source": "A Representação do Passado Histórico — Breno Mendes, Considerações finais",
+      "audit_status": "fundamentado no capítulo correspondente; verificar formulação literal antes de certificação final"
     }
   ],
   "sources": [
@@ -1766,6 +2174,7 @@
     "reviewed": 101,
     "method": "auditoria automatizada de estrutura e revisão editorial; fonte documental indicada por obra/capítulo quando identificável",
     "limitations": "referências indicam localização de conferência, não comprovam validação literal individual de cada afirmação",
-    "discursivas_reviewed": 35
+    "discursivas_reviewed": 35,
+    "latest_expansion": "26 shorts e 13 discursivas específicos de seções dos dois ZIPs"
   }
 }
